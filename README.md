@@ -39,7 +39,7 @@ Estos son algunos de los dátos logiticos que pueden ser usados en desde este re
 
 **URL:**
 
-```[https://github.com/pcbogota/logistic-data/blob/a9703482cc6c6807b7b1b1fcc04af1715cab80b4/Imagenes/logo-pcbogota-light-bg.svg](https://raw.githubusercontent.com/pcbogota/logistic-data/refs/heads/main/Imagenes/logo-pcbogota-light-bg.svg)```
+```https://raw.githubusercontent.com/pcbogota/logistic-data/refs/heads/main/Imagenes/logo-pcbogota-light-bg.svg```
 
 ## 5. Logo de PC Bogotá (Dark backgorund)
 ![PC Bogotá Logo Dark](https://raw.githubusercontent.com/pcbogota/logistic-data/refs/heads/main/Imagenes/logo-pcbogota-dark-bg.svg)
