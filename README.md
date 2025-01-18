@@ -31,10 +31,10 @@ Estos son algunos de los dátos logiticos que pueden ser usados en desde este re
 ```https://github.com/pcbogota/logistic-data/blob/a9703482cc6c6807b7b1b1fcc04af1715cab80b4/Imagenes/logo-pcbogota-light-bg.svg```
 
 ## 4. Logo de PC Bogotá (Dark backgorund)
-![PC Bogotá Logo Dark](https://github.com/pcbogota/logistic-data/blob/a9703482cc6c6807b7b1b1fcc04af1715cab80b4/Imagenes/logo-pcbogota-dark-bg.svg)
+![PC Bogotá Logo Dark](https://github.com/pcbogota/logistic-data/blob/ed35bfc1ca7ad0ffdc81e3640f898461493caaec/Imagenes/logo-pcbogota-dark-bg.svg)
 
-[Ver logo](https://github.com/pcbogota/logistic-data/blob/a9703482cc6c6807b7b1b1fcc04af1715cab80b4/Imagenes/logo-pcbogota-dark-bg.svg)
+[Ver logo](https://github.com/pcbogota/logistic-data/blob/ed35bfc1ca7ad0ffdc81e3640f898461493caaec/Imagenes/logo-pcbogota-dark-bg.svg)
 
 **URL:**
 
-```https://github.com/pcbogota/logistic-data/blob/a9703482cc6c6807b7b1b1fcc04af1715cab80b4/Imagenes/logo-pcbogota-dark-bg.svg```
+```https://github.com/pcbogota/logistic-data/blob/ed35bfc1ca7ad0ffdc81e3640f898461493caaec/Imagenes/logo-pcbogota-dark-bg.svg```
