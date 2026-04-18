@@ -79,12 +79,15 @@ https://raw.githubusercontent.com/pcbogota/logistic-data/refs/heads/main/Imagene
 ```plaintext
 https://raw.githubusercontent.com/pcbogota/logistic-data/refs/heads/main/Imagenes/pcbogota_avatar_310x310.png
 ```
+
 ---
+
 ### 512x512
 ![Avatar PC Bogotá 256x256](https://raw.githubusercontent.com/pcbogota/logistic-data/refs/heads/main/Imagenes/pcbogota_avatar_512x512.png)
 ```plaintext
 https://raw.githubusercontent.com/pcbogota/logistic-data/refs/heads/main/Imagenes/pcbogota_avatar_512x512.png
 ```
+
 ---
 ## 3. Avatar de PC Bogota (1080x1080)
 
@@ -94,23 +97,35 @@ https://raw.githubusercontent.com/pcbogota/logistic-data/refs/heads/main/Imagene
 
 **URL:**
 
-```https://raw.githubusercontent.com/pcbogota/logistic-data/refs/heads/main/Imagenes/avatar-PCBogota.png```
+```plaintext
+https://raw.githubusercontent.com/pcbogota/logistic-data/refs/heads/main/Imagenes/avatar-PCBogota.png
+```
+
 ---
+
 ## 4. Logo de PC Bogotá (Light backgorund)
 ![PC Bogotá Logo Light](https://raw.githubusercontent.com/pcbogota/logistic-data/refs/heads/main/Imagenes/logo-pcbogota-light-bg.svg)
 
 [Ver logo](https://raw.githubusercontent.com/pcbogota/logistic-data/refs/heads/main/Imagenes/logo-pcbogota-light-bg.svg)
 
 **URL:**
-```https://raw.githubusercontent.com/pcbogota/logistic-data/refs/heads/main/Imagenes/logo-pcbogota-light-bg.svg```
+```plaintext
+https://raw.githubusercontent.com/pcbogota/logistic-data/refs/heads/main/Imagenes/logo-pcbogota-light-bg.svg
+```
+
 ---
+
 ## 5. Logo de PC Bogotá (Dark backgorund)
 ![PC Bogotá Logo Dark](https://raw.githubusercontent.com/pcbogota/logistic-data/refs/heads/main/Imagenes/logo-pcbogota-dark-bg.svg)
 
 [Ver logo](https://raw.githubusercontent.com/pcbogota/logistic-data/refs/heads/main/Imagenes/logo-pcbogota-dark-bg.svg)
 
 **URL:**
-```https://raw.githubusercontent.com/pcbogota/logistic-data/refs/heads/main/Imagenes/logo-pcbogota-dark-bg.svg```
+```plaintext
+https://raw.githubusercontent.com/pcbogota/logistic-data/refs/heads/main/Imagenes/logo-pcbogota-dark-bg.svg
+```
+
 ---
+
 ChyBeat ©2026
 
