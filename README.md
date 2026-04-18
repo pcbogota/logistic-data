@@ -18,8 +18,16 @@ Estos son algunos de los dátos logiticos que pueden ser usados en desde este re
 | 32x32 | ```https://raw.githubusercontent.com/pcbogota/logistic-data/refs/heads/main/Imagenes/pcbogota_avatar_32x32.png``` | ![Avatar PC Bogotá 32x32](https://raw.githubusercontent.com/pcbogota/logistic-data/refs/heads/main/Imagenes/pcbogota_avatar_32x32.png)|
 | 48x48 | ```https://raw.githubusercontent.com/pcbogota/logistic-data/refs/heads/main/Imagenes/pcbogota_avatar_48x48.png``` | ![Avatar PC Bogotá 48x48](https://raw.githubusercontent.com/pcbogota/logistic-data/refs/heads/main/Imagenes/pcbogota_avatar_48x48.png)|
 | 64x64 | ```https://raw.githubusercontent.com/pcbogota/logistic-data/refs/heads/main/Imagenes/pcbogota_avatar_64x64.png``` | ![Avatar PC Bogotá 64x64](https://raw.githubusercontent.com/pcbogota/logistic-data/refs/heads/main/Imagenes/pcbogota_avatar_64x64.png)|
+| 96x96 | ```https://raw.githubusercontent.com/pcbogota/logistic-data/refs/heads/main/Imagenes/pcbogota_avatar_96x96.png``` | ![Avatar PC Bogotá 64x64](https://raw.githubusercontent.com/pcbogota/logistic-data/refs/heads/main/Imagenes/pcbogota_avatar_96x96.png)|
 | 128x128 | ```https://raw.githubusercontent.com/pcbogota/logistic-data/refs/heads/main/Imagenes/pcbogota_avatar_128x128.png``` | ![Avatar PC Bogotá 128x128](https://raw.githubusercontent.com/pcbogota/logistic-data/refs/heads/main/Imagenes/pcbogota_avatar_128x128.png)|
+| 144x144 | ```https://raw.githubusercontent.com/pcbogota/logistic-data/refs/heads/main/Imagenes/pcbogota_avatar_144x144.png``` | ![Avatar PC Bogotá 128x128](https://raw.githubusercontent.com/pcbogota/logistic-data/refs/heads/main/Imagenes/pcbogota_avatar_144x144.png)|
+| 192x192 | ```https://raw.githubusercontent.com/pcbogota/logistic-data/refs/heads/main/Imagenes/pcbogota_avatar_192x192/png``` | ![Avatar PC Bogotá 128x128](https://raw.githubusercontent.com/pcbogota/logistic-data/refs/heads/main/Imagenes/pcbogota_avatar_192x192.png)|
 | 256x256 | ```https://raw.githubusercontent.com/pcbogota/logistic-data/refs/heads/main/Imagenes/pcbogota_avatar_256x256.png``` | ![Avatar PC Bogotá 256x256](https://raw.githubusercontent.com/pcbogota/logistic-data/refs/heads/main/Imagenes/pcbogota_avatar_256x256.png)|
+| 310x310 | ```https://raw.githubusercontent.com/pcbogota/logistic-data/refs/heads/main/Imagenes/pcbogota_avatar_310x310.png``` | ![Avatar PC Bogotá 256x256](https://raw.githubusercontent.com/pcbogota/logistic-data/refs/heads/main/Imagenes/pcbogota_avatar_310x310.png)|
+| 512x512 | ```https://raw.githubusercontent.com/pcbogota/logistic-data/refs/heads/main/Imagenes/pcbogota_avatar_512x512.png``` | ![Avatar PC Bogotá 256x256](https://raw.githubusercontent.com/pcbogota/logistic-data/refs/heads/main/Imagenes/pcbogota_avatar_512x512.png)|
+| 1080x1080 | ```https://raw.githubusercontent.com/pcbogota/logistic-data/refs/heads/main/Imagenes/pcbogota_avatar_1080x1080.png``` | ![Avatar PC Bogotá 256x256](https://raw.githubusercontent.com/pcbogota/logistic-data/refs/heads/main/Imagenes/pcbogota_avatar_1080x1080.png)|
+
+
 
 ## 3. Avatar de PC Bogota (1024x1024)
 
